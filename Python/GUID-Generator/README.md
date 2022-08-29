@@ -20,4 +20,4 @@ During that time, I found that whenever I need a new GUID I have to go to a webs
 
 It gets old really quick when you have to make a bunch of them.
 
-That's reason I wrote this script and keybinding it to `Ctrl+Alt+G` in VSCode.
+So I wrote this script and keybinding it to `Ctrl+Alt+G` in VSCode and I got quick access to a GUID generator in IDE.
